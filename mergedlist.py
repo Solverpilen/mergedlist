@@ -26,6 +26,6 @@ def merge_lists(my_list, alices_list):
 
            return merged_list
 
-list1= [6,4,1]
-list2=[14,5,10,2,20]
+list1= [3213,132,2,1,2]
+list2=[18,123,43,123,32]
 print(merge_lists(list1,list2))
